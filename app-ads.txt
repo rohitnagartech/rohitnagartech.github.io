@@ -1,5 +1,1 @@
-# Entry for your first app (existing)
-google.com, pub-2665220179240195, DIRECT, f08c47fec0942fa0
-
-# Entry for MRK Studio (new)
 google.com, pub-2665220179240195, DIRECT, f08c47fec0942fa0
